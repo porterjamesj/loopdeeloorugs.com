@@ -33,6 +33,28 @@
 }
 .paragraph_style_1 {
     color: rgb(92, 55, 109);
+    font-family: 'Arial-BoldMT', 'Arial', sans-serif;
+    font-size: 15px;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 22px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    opacity: 1.00;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    text-align: left;
+    text-decoration: none;
+    text-indent: 0px;
+    text-transform: none;
+}
+.paragraph_style_2 {
+    color: rgb(92, 55, 109);
     font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 15px;
     font-stretch: normal;
@@ -53,7 +75,7 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_2 {
+.paragraph_style_3 {
     color: rgb(92, 55, 109);
     font-family: 'ArialMT', 'Arial', sans-serif;
     font-size: 15px;

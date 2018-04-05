@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <id>urn:iweb:F8562A8D-F15F-43B5-8DAE-BC0C369B487E</id>
  <title>Page list Atom feed</title>
- <updated>2016-06-10T11:39:54-04:00</updated>
+ <updated>2018-04-04T14:18:27-04:00</updated>
  <link rel="self" href="feed.xml"/>
  <generator>iWeb</generator>
  <author>
@@ -14,7 +14,7 @@
   <title xmlns="urn:iweb:">home</title>
   <in-navbar xmlns="urn:iweb:">D5CF164D-F929-4A65-BD96-92BC6C0475F3</in-navbar>
   <link rel="alternate" href="home.html"/>
-  <updated>2016-06-10T11:39:54.001-04:00</updated>
+  <updated>2018-04-04T14:18:27.001-04:00</updated>
   <content>home</content>
  </entry>
  <entry>
@@ -23,7 +23,7 @@
   <title xmlns="urn:iweb:">rug gallery</title>
   <in-navbar xmlns="urn:iweb:">5BD73E0D-DF1D-44DC-9526-E92BDDDF01D3</in-navbar>
   <link rel="alternate" href="rug_gallery.html"/>
-  <updated>2016-06-10T11:39:54.002-04:00</updated>
+  <updated>2018-04-04T14:18:27.002-04:00</updated>
   <content>rug gallery</content>
  </entry>
  <entry>
@@ -32,7 +32,7 @@
   <title xmlns="urn:iweb:">patterns</title>
   <in-navbar xmlns="urn:iweb:">FF93D436-0ED8-4B2C-807D-F6B15C4EC4EE</in-navbar>
   <link rel="alternate" href="patterns.html"/>
-  <updated>2016-06-10T11:39:54.003-04:00</updated>
+  <updated>2018-04-04T14:18:27.003-04:00</updated>
   <content>patterns</content>
  </entry>
  <entry>
@@ -41,7 +41,7 @@
   <title xmlns="urn:iweb:">biography</title>
   <in-navbar xmlns="urn:iweb:">EFFA7696-63DD-4F6A-A988-0BEF1B6FF474</in-navbar>
   <link rel="alternate" href="biography.html"/>
-  <updated>2016-06-10T11:39:54.004-04:00</updated>
+  <updated>2018-04-04T14:18:27.004-04:00</updated>
   <content>biography</content>
  </entry>
  <entry>
@@ -50,7 +50,7 @@
   <title xmlns="urn:iweb:">contact me</title>
   <in-navbar xmlns="urn:iweb:">7A2EBD96-D0C2-446F-A463-CC5C91F27277</in-navbar>
   <link rel="alternate" href="contact_me.html"/>
-  <updated>2016-06-10T11:39:54.005-04:00</updated>
+  <updated>2018-04-04T14:18:27.005-04:00</updated>
   <content>contact me</content>
  </entry>
  <entry>
@@ -59,7 +59,7 @@
   <title xmlns="urn:iweb:">ordering</title>
   <in-navbar xmlns="urn:iweb:">507B1D8C-FE8D-473D-A65B-183D40132CA5</in-navbar>
   <link rel="alternate" href="ordering.html"/>
-  <updated>2016-06-10T11:39:54.006-04:00</updated>
+  <updated>2018-04-04T14:18:27.006-04:00</updated>
   <content>ordering</content>
  </entry>
 </feed>

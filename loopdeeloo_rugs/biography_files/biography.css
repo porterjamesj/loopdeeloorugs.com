@@ -45,35 +45,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_2 {
-    color: rgb(92, 55, 109);
-    font-family: 'Arial-ItalicMT', 'Arial', sans-serif;
-    font-size: 10px;
-    font-stretch: normal;
-    font-style: italic;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing:     0.02em;
-    line-height: 15px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 0px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: none;
-    text-indent: 0px;
-    text-transform: none;
-}
-.style_SkipStroke_2 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_External_370_820 {
-    position: relative;
-}
 .style_SkipStroke {
     background: transparent;
     opacity: 1.00;
@@ -81,6 +52,9 @@
 .style_SkipStroke_1 {
     background: transparent;
     opacity: 1.00;
+}
+.style_External_370_820 {
+    position: relative;
 }
 .Free_Form {
     color: rgb(88, 77, 77);
@@ -115,16 +89,6 @@
     opacity: 1.00;
 }
 .graphic_image_style_default_SkipStroke {
-    background: transparent;
-    opacity: 1.00;
-}
-.graphic_textbox_layout_style_default {
-    padding: 4px;
-}
-.graphic_textbox_layout_style_default_External_106_51 {
-    position: relative;
-}
-.graphic_textbox_style_default_SkipStroke {
     background: transparent;
     opacity: 1.00;
 }

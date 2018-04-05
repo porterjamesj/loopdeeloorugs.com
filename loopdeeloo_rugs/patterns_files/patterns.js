@@ -1,4 +1,4 @@
-// Created by iWeb 3.0.4 local-build-20160426
+// Created by iWeb 3.0.4 local-build-20180404
 
 function createMediaStream_id2()
 {return IWCreatePhotocast("http://www.loopdeeloorugs.com/loopdeeloo_rugs/patterns_files/rss.xml",true);}
